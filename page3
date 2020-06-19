@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+	<head>
+	<meta charset="utf-8">
+	<meta name="description" content="Practice Site One, Rudimentary Portfolio">
+	<title>Rudimentary Portfolio, Julia E. Fellows</title>
+	</head>
+	<body>
+	<h1>Practice Site 1, Part 2</h1>
+	<nav>
+		<p>Site Navigation</p>
+		<a href="file:///C:/Users/afell/Desktop/practicesite1/page3">Page3</a>
+	</nav>
+			<h2>Internship Experience</h2>
+			<h3>International Justice Mission, Washington, D.C.</h3>
+			<h4>Advocacy District Leader, 10/2016 - 04/2018 </h4>
+			<ul>
+				<li>Led anti-slavery advocacy efforts in the 4th congressional district of North Carolina by formulating a petition in support of anti-human trafficking legislation and mobilizing a cohort of students</li>
+				<li>Maintained communication with headquarters, routinely confirming advocacy alignment with newfound national and global human trafficking reports</li>
+			</ul>
+			<h4>Communications Intern, 05/2016 - 08/2016</h4>
+			<ul>
+				<li>Composed written content for external use in anti-human trafficking literature and fostered connections with multiple field offices; prepared critical media talking points, thus involving these offices in the larger operation</li>
+				<li>Responded swiftly to a global communication crisis by implementing vetted crisis-response, and updating current communications projects</li>
+			</ul>
+			<img src="../../Pictures/IJM.JPG" width="315" height="550" border="0" alt="" />
+			<h3>United Way Worldwide, Alexandria, VA</h3>
+			<h4>Africa and Caribbean Operations Intern, 05/2017 - 08/2017</h4>
+			<ul>
+				<li>Gathered data from several international United Ways involving donor-advised giving, member certifications, and standardized self-assessments for annual United Way Worldwide Information Gateway</li>
+				<li>Facilitated capacity building among United Ways, through editing testimonials and synthesizing brand</li>
+			</ul>
+			<img src="../../Pictures/UW.JPG" width="315" height="550" border="0" alt="" />
+			<h2>Technical Experience</h2>
+			<ul>
+				<li>Cisco Webex; *CSS; Ellucian Banner 9; *HTML; G Suite; Microsoft Office applications; MicroStrategy; Salesforce; Skype; Target X; WordPress; Zoom Video Communications</li>
+			</ul>
+		<h2>Reflections...</h2>
+			<p>Proximity breeds empathy. In the context of global suffering, much of life "feels" trivial. For much of my life, my earnest and genuine desire "to help," aligned with the white savior complex, much to my unawareness. I still desire to advocate for the oppressed, while mindful of the truths of "othering" ('the,' 'them,' 'they,' etc.), and literature such as "Toxic Charity," "Dead Aid," "The New Jim Crow," "Evicted," "The Other Wes Moore," "Just Mercy," and so many more. So while me, pointing at the branding of "IJM" and "United Way," is trivial, relatively speaking, the placement of these images has served as practice. This, photo was taken in Jamkhed, India, where I completed a public health practicum. A brief excerpt of a journal entry, "India, I will miss your precious children who led me along slum pathways, enlightening me to a disposition and lifestyle of joy not heartache. I will miss the melodies of your culture...horn banter, lush greens, gentle chants, and fuchsia sarees. I will miss the raw beauty of un-institutionalized maternal care. I will miss your country and your people."</p>
+			<img src="../../Pictures/India.JPG" width="550" height="700" border="0" alt="" />
+		<footer>
+			Photo rights reserved. &copy;
+		</footer>
+
+			

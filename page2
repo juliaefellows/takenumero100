@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+	<head>
+	<meta charset="utf-8">
+	<meta name="description" content="Practice Site One, Rudimentary Portfolio">
+	<title>Rudimentary Portfolio, Julia E. Fellows</title>
+	</head>
+	<body>
+	<h1>Practice Site 1, Part 2</h1>
+	<nav>
+		<p>Site Navigation</p>
+		<a href="file:///C:/Users/afell/Desktop/practicesite1/page2">Page2</a>
+	</nav>
+			<h2>Work Experience</h2>
+			<h3>George Mason University</h3>
+			<h4>Admissions Counselor, 08/2018 - Present</h4>
+			<ul>
+				<li>Communicated both the evergreen and evolving components of institutional recruitment, with 24-hour notice, in response to COVID-19 contingency; filmed presentations are featured on Virtual Campus Experience site</li>
+				<li>Tested and troubleshot 36 virtual rooms prior to the successful execution of a virtual yield event, resulting in 3,824 deposits for the fall 2020 semester</li>
+				<li>Enrolled 7,000+ first-year students, through two recruitment cycles, with undergraduate admissions team; personally reviewed 1,000+ applications</li>
+				<li>Engage with clientele – prospective first-year, transfer, and international students – through strategic regional and national recruitment; presented at 80+ high schools and 25+ college fairs</li>
+				<li>Analyze application data through Salesforce and MicroStrategy reporting to assess enrollment trends; reorganized personal recruitment travel to New England through EPS code-specific leads</li>
+				<li>Cultivate relationships with prospective students, departmental liaisons, and university stakeholders; attuning to nonverbals and contextual variables to promote effective communication</li>
+				<li>Refine marketing content, implementing consistency in jargon, to streamline the queuing of daily email campaigns; Approval Coordinator for Events’ communications</li>
+				<li>Organized and executed a regional yield event and annual depart-wide training for 100+ coworkers, integrating 31 departments, resulting in revamping recruitment best practice, and bolstering divisional-alignment</li>
+			</ul>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/YP3z7C7WFwE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/UaosMcWlMvE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<footer>
+			Rights reserved to Mason Admissions' YouTube account. &copy;
+		</footer>
